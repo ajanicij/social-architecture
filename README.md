@@ -1,2 +1,4 @@
-# social-architecture
-Social Architecture by Pieter Hintjens
+## Social Architecture
+
+This repository contains book Social Architecture
+by Pieter Hintjens.
