@@ -17,6 +17,9 @@ In Linux, run
 The Makefile uses pandoc to convert markdown to
 PDF file Social-Architecture.pdf.
 
+The generated book is:
+[Social Architecture](https://github.com/ajanicij/social-architecture/blob/main/Social-Architecture.pdf).
+
 ## Original
 
 Please find the original sources at
