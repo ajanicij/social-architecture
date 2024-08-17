@@ -1,7 +1,8 @@
 ## Social Architecture
 
 This repository contains book Social Architecture
-by Pieter Hintjens.
+by
+[Pieter Hintjens](https://en.wikipedia.org/wiki/Pieter_Hintjens).
 
 ## Contents
 
@@ -15,3 +16,8 @@ In Linux, run
 
 The Makefile uses pandoc to convert markdown to
 PDF file Social-Architecture.pdf.
+
+## Original
+
+Please find the original sources at
+[Social Architecture](https://github.com/hintjens/socialarchitecture/tree/master)
